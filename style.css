@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-style {
+    margin-right: 25px;
+    justify-content: center;
+    height: 200px;
+    width: 300px;
+    margin-left: 25px;
+    background-color: white;
+}
